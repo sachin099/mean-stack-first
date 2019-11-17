@@ -25,7 +25,7 @@
     "express": "^4.13.3",
     "method-override": "^3.0.0",
     "mongodb": "^2.1.7",
-    "mongoose": "^4.13.19"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "less": "^3.10.3",
